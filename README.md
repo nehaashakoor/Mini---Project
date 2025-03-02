@@ -1,7 +1,6 @@
 # Mini Project 
 - *Selenium Libaray , Firebase  Authentication, PYMongo , PYQT5*
 
-
 # Overview :
 I have created a project in which I have used Selenium library  to scrape data also using Firebase Authentication
  for Sign in & Log in, PYMongo for storing scrape data , and PYQT5.
@@ -22,7 +21,7 @@ I have created a project in which I have used Selenium library  to scrape data a
  : Here is demo 
 
 1_ You can see when user run main.py then Firebase Authentication windows show. Sign in or Log in it depends on you. If you already sign in then you can log in easily.
-
+![image alt](https://github.com/nehaashakoor/Mini---Project/blob/main/images/Image%20%231.jpeg?raw=true)
 
 2_ Now you can add your mail and password. Remember this your mail is used as your unique id when you scrape and view data.
 
