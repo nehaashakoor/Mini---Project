@@ -24,16 +24,21 @@ I have created a project in which I have used Selenium library  to scrape data a
 - After add product name & db_collection name click on button Scrape data it takes 1 to 3 mints to scrape product data after that it also show that scraping is complete.
 - If you want to view scrape data then click on view scrape data then new window appear that show scrape data.
 
+
  : Here is demo 
 
 1_ You can see when user run main.py then Firebase Authentication windows show. Sign in or Log in it depends on you. If you already sign in then you can log in easily.
 ![image alt](https://github.com/nehaashakoor/Mini---Project/blob/main/images/Image%20%231.jpeg?raw=true)
 
+
 2_ Now you can add your mail and password. Remember this your mail is used as your unique id when you scrape and view data.
 ![image alt](https://github.com/nehaashakoor/Mini---Project/blob/main/images/Image%20%232.jpeg?raw=true)
+
 
 3_ Now Daraz Dashboard windows open you can add product name & db_collection name to scrape data, click on Scrape data button, after scraping it also show that scraping is complete.
 ![image alt](https://github.com/nehaashakoor/Mini---Project/blob/main/images/Image%20%233.jpeg?raw=true)
 
+
 4_ If you want to view scrape data then click on view data scrape button.
 ![image alt](https://github.com/nehaashakoor/Mini---Project/blob/main/images/Image%20%234.jpeg?raw=true)
+
